@@ -50,5 +50,5 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     //call tab switcher function with its arguments
-    tab_switcher(tabs_container_element, tab_element, tab_content, hide_content_class, show_content_class);
+    tab_switcher(tabs_container_element, tab_element, tab_content, hide_content_class, show_content_class); //type here your classes names
 });
